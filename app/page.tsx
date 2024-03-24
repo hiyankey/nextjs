@@ -1,7 +1,9 @@
-import Image from "next/image";
+import Posts from './ui/posts'
 
 export default function Home() {
   return (
-   <main>Hello world</main>
-  );
+    <main className='max-w-md mx-auto mt-[var(--header-height)] min-h-[calc(100vh - var(--header-height))]'>
+      <Posts />
+    </main>
+  )
 }

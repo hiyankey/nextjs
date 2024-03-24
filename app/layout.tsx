@@ -1,5 +1,6 @@
 import './styles/globals.css'
 import { globalStyles, getCssText } from '../stitches.config'
+import Header from './ui/header'
 
 export default function RootLayout({
   children,
@@ -12,7 +13,10 @@ export default function RootLayout({
       <head>
         <style dangerouslySetInnerHTML={{ __html: getCssText() }} />
       </head>
-      <body>{children}</body>
+      <body>
+        <Header />
+        {children}
+      </body>
     </html>
   )
 }
