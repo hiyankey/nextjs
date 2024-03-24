@@ -34,6 +34,22 @@ const posts = [
     content: 'Looking for a design role in a startup company. ',
     whenHired: false
   },
+  {
+    userName: 'Mayuko',
+    userId: 5,
+    imgPath: '/Mayuko.png',
+    role: 'Design Engineer',
+    content: 'Looking for a design role in a startup company. ',
+    whenHired: false
+  },
+  {
+    userName: 'Rauno',
+    userId: 6,
+    imgPath: '/Rauno.png',
+    role: 'CEO',
+    content: 'Looking for a design role in a startup company. ',
+    whenHired: false
+  },
 ]
 
 export default function Posts() {
