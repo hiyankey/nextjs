@@ -7,6 +7,7 @@ const posts = [
     imgPath: '/Mayuko.png',
     role: 'Design Engineer',
     content: 'Looking for a design role in a startup company. ',
+    whenHired: false
   },
 
   {
@@ -15,6 +16,7 @@ const posts = [
     imgPath: '/Rauno.png',
     role: 'CEO',
     content: 'Looking for a design role in a startup company. ',
+    whenHired: false
   },
   {
     userName: 'Mayuko',
@@ -22,6 +24,7 @@ const posts = [
     imgPath: '/Mayuko.png',
     role: 'Design Engineer',
     content: 'Looking for a design role in a startup company. ',
+    whenHired: false
   },
   {
     userName: 'Rauno',
@@ -29,6 +32,7 @@ const posts = [
     imgPath: '/Rauno.png',
     role: 'CEO',
     content: 'Looking for a design role in a startup company. ',
+    whenHired: false
   },
 ]
 
