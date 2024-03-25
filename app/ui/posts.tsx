@@ -6,8 +6,8 @@ const posts = [
     userId: 1,
     imgPath: '/Mayuko.png',
     role: 'Design Engineer',
-    content: 'Looking for a design role in a startup company. ',
-    whenHired: false
+    content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. ',
+    whenHired: false,
   },
 
   {
@@ -15,8 +15,8 @@ const posts = [
     userId: 2,
     imgPath: '/Rauno.png',
     role: 'CEO',
-    content: 'Looking for a design role in a startup company. ',
-    whenHired: false
+    content: '... <3',
+    whenHired: false,
   },
   {
     userName: 'Mayuko',
@@ -24,31 +24,31 @@ const posts = [
     imgPath: '/Mayuko.png',
     role: 'Design Engineer',
     content: 'Looking for a design role in a startup company. ',
-    whenHired: false
+    whenHired: false,
   },
   {
     userName: 'Rauno',
     userId: 4,
     imgPath: '/Rauno.png',
     role: 'CEO',
-    content: 'Looking for a design role in a startup company. ',
-    whenHired: false
+    content: 'Going through some code session ',
+    whenHired: false,
   },
   {
     userName: 'Mayuko',
     userId: 5,
     imgPath: '/Mayuko.png',
     role: 'Design Engineer',
-    content: 'Looking for a design role in a startup company. ',
-    whenHired: false
+    content: '@ my moms place ',
+    whenHired: false,
   },
   {
     userName: 'Rauno',
     userId: 6,
     imgPath: '/Rauno.png',
     role: 'CEO',
-    content: 'Looking for a design role in a startup company. ',
-    whenHired: false
+    content: 'This week is lit already ',
+    whenHired: false,
   },
 ]
 

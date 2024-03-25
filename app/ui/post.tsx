@@ -11,6 +11,7 @@ export default function Post({
   role,
   content,
   whenHired,
+
 }: any) {
   const [whenHiredState, setWhenHiredState] = useState(whenHired)
   return (
@@ -22,7 +23,7 @@ export default function Post({
         <div className='flex flex-col w-full'>
           <div className='flex w-full items-center'>
             <div>
-              <h2>{userName}</h2>
+              <h2>{userName} </h2>
               <h3 className='text-[#000]/60'>{role}</h3>
             </div>
 
