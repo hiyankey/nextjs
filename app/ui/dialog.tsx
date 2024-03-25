@@ -12,7 +12,7 @@ export default function Dialog({
       }`}
       // onClick={() => setWhenHiredState((prev: any) => !prev)}
     >
-      <div className='max-w-lg mx-auto bg-white h-1/2 rounded-[10px] shadow-md z-10 flex justify-center items-center mt-10 relative'>
+      <div className='max-w-sm sm:max-w-lg mx-auto bg-white h-1/2 rounded-[10px] shadow-md z-10 flex justify-center items-center mt-10 relative'>
         <Button
           variant={'secondary'}
           size={'sm'}
