@@ -6,7 +6,7 @@ const posts = [
     userId: 1,
     imgPath: '/Mayuko.png',
     role: 'Design Engineer',
-    content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. ',
+    content: 'Learning to code is the best thing I did as a designer.',
     whenHired: false,
   },
 
@@ -23,7 +23,7 @@ const posts = [
     userId: 3,
     imgPath: '/Mayuko.png',
     role: 'Design Engineer',
-    content: 'Looking for a design role in a startup company. ',
+    content: 'Anyone hiring.. I need a job.',
     whenHired: false,
   },
   {
